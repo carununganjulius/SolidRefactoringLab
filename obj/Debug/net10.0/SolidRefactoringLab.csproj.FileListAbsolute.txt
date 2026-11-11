@@ -1,0 +1,14 @@
+C:\Users\Julius Carunungan\SolidRefactoringLab\bin\Debug\net10.0\SolidRefactoringLab.exe
+C:\Users\Julius Carunungan\SolidRefactoringLab\bin\Debug\net10.0\SolidRefactoringLab.deps.json
+C:\Users\Julius Carunungan\SolidRefactoringLab\bin\Debug\net10.0\SolidRefactoringLab.runtimeconfig.json
+C:\Users\Julius Carunungan\SolidRefactoringLab\bin\Debug\net10.0\SolidRefactoringLab.dll
+C:\Users\Julius Carunungan\SolidRefactoringLab\bin\Debug\net10.0\SolidRefactoringLab.pdb
+C:\Users\Julius Carunungan\SolidRefactoringLab\obj\Debug\net10.0\SolidRefactoringLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julius Carunungan\SolidRefactoringLab\obj\Debug\net10.0\SolidRefactoringLab.AssemblyInfoInputs.cache
+C:\Users\Julius Carunungan\SolidRefactoringLab\obj\Debug\net10.0\SolidRefactoringLab.AssemblyInfo.cs
+C:\Users\Julius Carunungan\SolidRefactoringLab\obj\Debug\net10.0\SolidRefactoringLab.csproj.CoreCompileInputs.cache
+C:\Users\Julius Carunungan\SolidRefactoringLab\obj\Debug\net10.0\SolidRefactoringLab.dll
+C:\Users\Julius Carunungan\SolidRefactoringLab\obj\Debug\net10.0\refint\SolidRefactoringLab.dll
+C:\Users\Julius Carunungan\SolidRefactoringLab\obj\Debug\net10.0\SolidRefactoringLab.pdb
+C:\Users\Julius Carunungan\SolidRefactoringLab\obj\Debug\net10.0\SolidRefactoringLab.genruntimeconfig.cache
+C:\Users\Julius Carunungan\SolidRefactoringLab\obj\Debug\net10.0\ref\SolidRefactoringLab.dll
